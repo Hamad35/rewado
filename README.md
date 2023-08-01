@@ -30,4 +30,3 @@ To support additional languages, please visit the tutorial on
 apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) -->
 
 
-here will be my app feature list from Tumsela Asghar
